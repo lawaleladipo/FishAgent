@@ -1,0 +1,12 @@
+From: PayPal Security <security@secure-paypal-login.com>
+Subject: URGENT: Your account has been suspended
+Return-Path: <alert@secure-paypal-login.com>
+Authentication-Results: spf=fail dkim=fail
+
+Dear user,
+
+Your PayPal account will be closed in 24 hours. Login now to verify:
+https://secure-paypal-login.com/login
+
+Sincerely,
+PayPal Support

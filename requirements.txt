@@ -1,0 +1,4 @@
+openai
+tldextract
+email-parser
+python-dotenv

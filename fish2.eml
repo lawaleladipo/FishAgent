@@ -1,0 +1,6 @@
+From: Bank Alerts <support@bnkofamrica.com>
+Subject: Immediate action required
+Return-Path: <attacker@evil.com>
+Authentication-Results: spf=fail dkim=fail
+
+Please update your credentials at http://bnkofamrica-update.com/login to avoid suspension.

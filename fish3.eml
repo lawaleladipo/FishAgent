@@ -1,0 +1,5 @@
+From: Payroll Department <payroll@company.com>
+Subject: View your payslip now
+Authentication-Results: spf=pass dkim=fail
+
+Click here to view: https://compayrollsecure.com/document
