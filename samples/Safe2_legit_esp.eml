@@ -1,0 +1,9 @@
+From: Billing Team <billing@example.com>
+Return-Path: <bounces+99481@sendgrid.net>
+Subject: Monthly Invoice Receipt - Paid
+Authentication-Results: mx.example.org; spf=pass dkim=pass dmarc=pass
+
+Hi team,
+
+Attached is your paid receipt for this month's subscription. No action is required.
+View your billing portal at https://billing.example.com/invoices

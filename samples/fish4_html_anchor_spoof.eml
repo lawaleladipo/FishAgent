@@ -1,0 +1,24 @@
+From: Microsoft 365 Security <security-noreply@microsoft.com>
+Return-Path: <bounce-id@mailer-notify.ru>
+Reply-To: IT Helpdesk <reverify-session@outlook-ticket-desk.com>
+Subject: Action Required: Unusual Sign-In Blocked on Your Corporate Account
+Authentication-Results: mx.example.org; spf=softfail dkim=fail dmarc=fail
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="BOUNDARY_FISH4"
+
+--BOUNDARY_FISH4
+Content-Type: text/plain; charset="utf-8"
+
+We detected an unusual sign-in attempt. Please review your recent activity immediately.
+
+--BOUNDARY_FISH4
+Content-Type: text/html; charset="utf-8"
+
+<html>
+  <body>
+    <p>We blocked an unrecognized sign-in to your corporate mailbox.</p>
+    <p>Verify your session within 2 hours to prevent account lockout:</p>
+    <p><a href="http://microsoft.com.session-reverify-portal.ru/oauth2/login">https://security.microsoft.com/review-activity</a></p>
+  </body>
+</html>
+--BOUNDARY_FISH4--
